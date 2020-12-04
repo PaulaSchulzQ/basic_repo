@@ -1,0 +1,8 @@
+El primer paso fue abrir git bash, luego localizarme en Desktop(cd), y crear la carpeta basic_repo. (mkdir).
+Luego cree un nuevo repo en github llamado basic_repo.
+En git, cree archivos html y css y les agregue algo de contenido.(touch).
+Luego inicié git (git init) y agregue los archivos a git (git add .) comitee (git commit -m) 
+y los subi al repo (git remote add origin https://github.com/PaulaSchulzQ/basic_repo.git).
+Despues agregue algo mas de contenido en html y los agregue a git y los subi al repo
+(git add . / git commit -m / git push -u).
+Al final creé el archivo txt para comentar los pasos. 
